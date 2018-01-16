@@ -14,7 +14,7 @@ Patrick - You should edit five CSS properties.
 
 Dan - You should edit five CSS properties.
 
-Patrick - 
+Patrick - Slack your partner. You should both create an array of objects. Each object should have a name and age.
 
 Dan - Slack your partner. You should both create a new HTML file. Link to it from index.html
 
@@ -28,4 +28,4 @@ Dan - Slack your partner. You should both edit an HTML file. Add a paragraph abo
 
 Patrick - You should create a new CSS file. Link to it from one of your HTML files.
 
-Dan -
+Dan - You should create an array of numbers in a Javascript file, if there isn't one. Write a funciton that multiplies them togehter.
