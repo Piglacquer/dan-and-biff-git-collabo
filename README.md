@@ -20,7 +20,7 @@ Dan - Slack your partner. You should both create a new HTML file. Link to it fro
 
 Patrick - You should remove a file other than index.html.
 
-Dan -
+Dan - You should edit an HTML file. Add a recipe that you like using lists. 
 
 Patrick -
 
