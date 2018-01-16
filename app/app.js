@@ -19,9 +19,3 @@ const $arrayOfObj = [
 		age: 27
 	}
 ]
-// 
-function multi(params) {
-    const reducer = (accumulator, item) => {return accumulator*item};
-    return params.reduce(reducer);
-}
-console.log(multi([2,3]));
