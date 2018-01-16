@@ -18,7 +18,7 @@ Patrick - Slack your partner. You should both create an array of objects. Each o
 
 Dan - Slack your partner. You should both create a new HTML file. Link to it from index.html
 
-Patrick -
+Patrick - You should remove a file other than index.html.
 
 Dan -
 
