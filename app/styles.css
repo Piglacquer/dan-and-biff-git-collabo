@@ -1,23 +1,38 @@
 header {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-gap: 10px;
-  align-items: end;
-  border-bottom: .3rem solid darkgrey;
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	grid-gap: 10px;
+	align-items: end;
+	border-bottom: 0.3rem solid darkgrey;
 }
 
 h1 {
-  grid-column: 1/span 2;
-  margin-left: 1rem;
-  color: orange;
+	grid-column: 1/span 2;
+	margin-left: 1rem;
+	color: white;
+	background-color: black;
 }
 
 nav {
-  grid-column: 5/ span 2;
+	grid-column: 5/ span 2;
 }
 
 nav a {
-  text-decoration: none;
-  color: darkgrey;
-  font-size:
+	text-decoration: none;
+	color: darkgrey;
+	font-size: ;
+}
+
+body {
+	font-size: 100rem;
+}
+
+p {
+	display: flex;
+	flex-flow: column nowrap;
+	background-color: grey;
+}
+
+h2 {
+	text-decoration: line-through;
 }
