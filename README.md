@@ -20,9 +20,9 @@ Dan - Slack your partner. You should both create a new HTML file. Link to it fro
 
 Patrick - You should remove a file other than index.html.
 
-Dan - You should edit an HTML file. Add a recipe that you like using lists. 
+Dan - You should edit an HTML file. Add a recipe that you like using lists.
 
-Patrick -
+Patrick - You should create a new directory. Move at least one file into that directory.
 
 Dan -
 
