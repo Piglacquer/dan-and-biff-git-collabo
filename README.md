@@ -12,9 +12,9 @@ Work with a partner to edit a project and manage your changes with git.
 
 Patrick - You should edit five CSS properties.
 
-Dan -
+Dan - You should edit five CSS properties.
 
-Patrick - Slack your partner. You should both create an array of objects. Each object should have a name and age.
+Patrick - 
 
 Dan -
 
