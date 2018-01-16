@@ -16,7 +16,7 @@ Dan - You should edit five CSS properties.
 
 Patrick - 
 
-Dan -
+Dan - Slack your partner. You should both create a new HTML file. Link to it from index.html
 
 Patrick -
 
