@@ -24,7 +24,7 @@ Dan - You should edit an HTML file. Add a recipe that you like using lists.
 
 Patrick - You should create a new directory. Move at least one file into that directory.
 
-Dan -
+Dan - Slack your partner. You should both edit an HTML file. Add a paragraph about something you like.
 
 Patrick -
 
